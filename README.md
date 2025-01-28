@@ -2,7 +2,7 @@ XSS Freezer is an XSS vulnerability payload that crashes the browser and warms u
 
 For the test, you can run the laboratory in https://portswigger.net/web-security/cross-site-scripting/stored/lab-html-context-nothing-encoded.
 
-⚠️ Important: This payload is intended solely for educational purposes and testing on protected systems. Use in real attacks violates laws and ethical standards.
+⚠️ Important: This payload is intended solely for educational purposes and testing on protected systems. Use in real attacks violates laws and ethical standards. The author of the repository is not responsible for the use of this payload by third parties.
 
 https://github.com/user-attachments/assets/e35d05a5-1d54-42a2-89e8-511a6380acd5
 
