@@ -1,4 +1,4 @@
-window.onload=function(){const canvas=document.getElementById("gpuCanvas"),gl=canvas.getContext("webgl2",{antialias:!1,powerPreference:"high-performance"})||canvas.getContext("experimental-webgl2");if(!gl)throw alert("WebGL 2.0 is not available"),Error("WebGL 2.0 unsupported");/*by DAFFIER*/const DPR=4;canvas.width=4*window.innerWidth,canvas.height=4*window.innerHeight;const vertexShader=`#version 300 es
+window.onload=function(){const canvas=document.getElementById("сpuCanvas"),gl=canvas.getContext("webgl2",{antialias:!1,powerPreference:"high-performance"})||canvas.getContext("experimental-webgl2");if(!gl)throw alert("WebGL 2.0 is not available"),Error("WebGL 2.0 unsupported");/*by DAFFIER*/const DPR=4;canvas.width=4*window.innerWidth,canvas.height=4*window.innerHeight;const vertexShader=`#version 300 es
             precision highp float;
             in vec2 position;
             uniform float time;
