@@ -1,4 +1,10 @@
-XSS Freezer is an XSS vulnerability payload that crashes the browser and warms up the CPU due to a 100% load. CPU load is achieved due to WebGL 2.0 with extreme settings, complex shaders, mass particle rendering, interactivity, and negative code optimization (i.e. not for the benefit but for the detriment of the user).
+XSS Freezer is an XSS vulnerability (Stored, Reflected) payload that crashes the browser and warms up the CPU due to a 100% load. CPU load is achieved due to WebGL 2.0 with extreme settings, complex shaders, mass particle rendering, interactivity, and negative code optimization (i.e. not for the benefit but for the detriment of the user).
+
+The script will work if the page is missing:
+* SOP (Same-Origin Policy);
+* CSP (Content Security Policy);
+* Input validation;
+* And other technologies that prevent XSS.
 
 For the test, you can run the laboratory in https://portswigger.net/web-security/cross-site-scripting/stored/lab-html-context-nothing-encoded.
 
